@@ -1,0 +1,20 @@
+{
+    "Author": "Brian78",
+    "ContentSize": 1270,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/pause-all-azure-sql-datawarehouses/master/PauseAllSQLDW.ps1",
+    "DownloadCount": 3050,
+    "Id": "Pause-All-Azure-SQL-116a03c6",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 120,
+    "RaterCount": 1,
+    "Rating": 3.0,
+    "ReleaseDate": "2016-3-16T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This Azure PowerShell Workflow\u00a0Runbook uses a credential to login and looks for all Azure SQL Datawarehouses within a subscription that are not paused.\u00a0 If it finds any\u00a0Azure SQL Datawarehouses\u00a0that are not paused, it pauses them.\u00a0 It can be scheduled to run at a specific time",
+    "Title": "Pause All Azure SQL Datawarehouses",
+    "UpdatedDate": "2016-3-17T00:00:00",
+    "Url": "https://github.com/azureautomation/pause-all-azure-sql-datawarehouses",
+    "UserTags": "Azure Automation, Azure SQL Data Warehouse"
+}
